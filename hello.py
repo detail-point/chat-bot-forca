@@ -1,1 +1,3 @@
-print("ola mundo 2")
+from time import sleep
+
+print("miaaaaaaaaaaaaaaaaaaaaaaaaaaaau")
